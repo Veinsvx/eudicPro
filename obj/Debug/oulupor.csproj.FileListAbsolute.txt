@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\oulupor\bin\Debug\oulupor.exe.config
+C:\Users\admin\source\repos\oulupor\bin\Debug\oulupor.exe
+C:\Users\admin\source\repos\oulupor\bin\Debug\oulupor.pdb
+C:\Users\admin\source\repos\oulupor\obj\Debug\oulupor.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\oulupor\obj\Debug\oulupor.Form1.resources
+C:\Users\admin\source\repos\oulupor\obj\Debug\oulupor.Properties.Resources.resources
+C:\Users\admin\source\repos\oulupor\obj\Debug\oulupor.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\oulupor\obj\Debug\oulupor.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\oulupor\obj\Debug\oulupor.exe
+C:\Users\admin\source\repos\oulupor\obj\Debug\oulupor.pdb
